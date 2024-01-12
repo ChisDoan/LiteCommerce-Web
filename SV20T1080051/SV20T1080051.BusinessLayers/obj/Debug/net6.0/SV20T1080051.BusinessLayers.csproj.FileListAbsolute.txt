@@ -1,0 +1,17 @@
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\bin\Debug\net6.0\SV20T1080051.BusinessLayers.deps.json
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\bin\Debug\net6.0\SV20T1080051.BusinessLayers.dll
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\bin\Debug\net6.0\SV20T1080051.BusinessLayers.pdb
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\bin\Debug\net6.0\SV20T1080051.DataLayers.dll
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\bin\Debug\net6.0\SV20T1080051.DomainModels.dll
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\bin\Debug\net6.0\SV20T1080051.DataLayers.pdb
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\bin\Debug\net6.0\SV20T1080051.DomainModels.pdb
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.csproj.AssemblyReference.cache
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.AssemblyInfoInputs.cache
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.AssemblyInfo.cs
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.csproj.CopyComplete
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.dll
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\refint\SV20T1080051.BusinessLayers.dll
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\SV20T1080051.BusinessLayers.pdb
+D:\WebApp\SV20T1080051\SV20T1080051.BusinessLayers\obj\Debug\net6.0\ref\SV20T1080051.BusinessLayers.dll

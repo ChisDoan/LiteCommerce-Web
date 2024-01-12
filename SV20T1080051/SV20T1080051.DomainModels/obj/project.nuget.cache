@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPmisPJWnYnt2GwKaQZqbw18GN4qt1ykz3I2bSQB2ljuhRxcEiyxXvYwXB0Oh6llh+merCLxh5K3KUwZmLIY4Q==",
+  "success": true,
+  "projectFilePath": "D:\\WebApp\\SV20T1080051\\SV20T1080051.DomainModels\\SV20T1080051.DomainModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trido\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Trido\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Trido\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
